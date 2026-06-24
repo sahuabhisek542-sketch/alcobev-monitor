@@ -1,0 +1,77 @@
+# PRIMARY KEYWORDS - Trigger on any match
+alcobev
+alcoholic beverages
+spirits industry
+beer industry
+wine industry
+IMFL
+premiumisation
+ENA
+excise policy
+
+# COMPANY NAMES
+United Spirits
+Radico Khaitan
+United Breweries
+Allied Blenders
+Sula Vineyards
+Diageo India
+Pernod Ricard
+AB InBev
+John Distillers
+Bacardi
+Mohan Meakin
+Som Distilleries
+Amrut Distilleries
+Paul John
+Malabar
+Bacardi India
+McCormick
+Whyte and Mackay
+Johnnie Walker
+Royal Challenge
+Officer's Choice
+Signature
+Black Dog
+Kingfisher
+Carlsberg
+Tuborg
+
+# SECONDARY KEYWORDS - Trigger only if combined with sector context
+duty
+tax
+volume
+margin
+premium
+luxury
+capacity
+acquisition
+merger
+IPO
+fundraise
+regulation
+GST
+tariff
+export
+import
+capacity
+market share
+revenue
+EBITDA
+brand
+distribution
+retail
+wholesale
+online sales
+e-commerce
+hospitality
+HoReCa
+consumption
+per capita
+market size
+growth rate
+forecast
+analyst
+rating
+upgrade
+downgrade
