@@ -1,0 +1,55 @@
+# Google News RSS - Alcobev & Spirits
+https://news.google.com/rss/search?q=alcobev+India
+https://news.google.com/rss/search?q=IMFL+India
+https://news.google.com/rss/search?q=beer+India
+https://news.google.com/rss/search?q=whisky+India
+https://news.google.com/rss/search?q=excise+policy+India
+https://news.google.com/rss/search?q=premiumisation+alcohol
+https://news.google.com/rss/search?q=ENA+prices+India
+https://news.google.com/rss/search?q=spirits+industry+India
+https://news.google.com/rss/search?q=wine+India
+https://news.google.com/rss/search?q=alcoholic+beverages+India
+
+# Company-specific Google News
+https://news.google.com/rss/search?q=United+Spirits
+https://news.google.com/rss/search?q=Radico+Khaitan
+https://news.google.com/rss/search?q=United+Breweries
+https://news.google.com/rss/search?q=Allied+Blenders
+https://news.google.com/rss/search?q=Sula+Vineyards
+https://news.google.com/rss/search?q=Diageo+India
+https://news.google.com/rss/search?q=Pernod+Ricard+India
+https://news.google.com/rss/search?q=AB+InBev+India
+
+# Business Standard - Markets & Corporate
+https://www.business-standard.com/rss/latest.rss
+https://www.business-standard.com/rss/markets.rss
+https://www.business-standard.com/rss/companies.rss
+
+# Economic Times - Markets & Companies
+https://economictimes.indiatimes.com/rss/markets.cms
+https://economictimes.indiatimes.com/rss/companies.cms
+https://economictimes.indiatimes.com/rss/news.cms
+
+# Moneycontrol - Stocks & Markets
+https://feeds.moneycontrol.com/rss/stocks.xml
+https://feeds.moneycontrol.com/rss/news.xml
+
+# Reuters India - Business News
+https://feeds.reuters.com/reuters/businessNews
+https://feeds.reuters.com/reuters/indiaNews
+
+# NSE/BSE Stock Exchange - Announcements (where available)
+https://www.nseindia.com/rss.htm
+
+# Ministry Notifications - Excise & Alcohol
+https://www.pib.gov.in/allrss.aspx
+
+# Investor Relations - Major Alcobev Companies
+https://www.diageo.com/en/company/our-businesses/rss-feeds
+
+# SSRN - Academic Research Papers
+https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=2897328&Network=no
+
+# Industry-specific blogs and publications
+https://www.thehansindia.com/rss
+https://www.deccanherald.com/rss
